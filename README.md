@@ -1,0 +1,3 @@
+# GoogleAdMobAdsActivity
+
+### Android Studio Template
